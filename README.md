@@ -4,9 +4,12 @@
 
 <div align="center">
 <h3>Hello, I'm Solmi🐰</h3>
+<p>:mailbox_with_mail: tom526@naver.com</p>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsolmi26&count_bg=%23ACDBF5&title_bg=%23EDA4A4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/><br/>
+
+<br/>
 ﹏﹏﹏﹏﹏﹏﹏
 
 ## 👩🏻‍💻Skills
@@ -19,13 +22,9 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-## :mailbox_with_mail: Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tom526@naver.com)](mailto:tom526@naver.com)
-<a href="https://blog.naver.com/tom526" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 20px/></a>
 
-
-
-
+</br></br>
+﹏﹏﹏﹏﹏﹏﹏
 
 <div align="center">
 
@@ -41,6 +40,6 @@
 
 </div>
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 
