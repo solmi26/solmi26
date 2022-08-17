@@ -35,7 +35,8 @@
 
 <div align="center">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom526)](https://solved.ac/kindmi/)]
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom526)](https://solved.ac/tom526)
 <img src="http://mazandi.herokuapp.com/api?handle=tom526&theme=warm"/>
 
 </div>
