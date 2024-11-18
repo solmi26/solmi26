@@ -38,6 +38,14 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom526)](https://solved.ac/tom526)
 <img src="http://mazandi.herokuapp.com/api?handle=tom526&theme=warm"/>
 
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/solmi26"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
