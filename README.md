@@ -33,11 +33,6 @@
 </div>
 
 <div align="center">
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tom526)](https://solved.ac/tom526)
-<img src="http://mazandi.herokuapp.com/api?handle=tom526&theme=warm"/>
-
 
 <a href="https://github.com/devxb/gitanimals">
 <img
